@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anshika Tiwari</h1>
-<h3 align="center">An aspiring tech enthusiast committed to continuous learning and driven to make a positive societal impact through innovative solutions and a passion for technology.</h3>
+<h3 align="center">An aspiring tech enthusiast committed to continuous learning and driven to make a positive societal impact through innovative solutions.</h3>
 
 <img align="right" alt="coading" width="400" src="https://digitalscholar.in/wp-content/uploads/2022/06/online-learning.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshikatiwari20&label=Profile%20views&color=0e75b6&style=flat" alt="anshikatiwari20" /> </p>
-
-- 🔭 I’m currently working on **DSA and research in AI**
 
 - 🌱 I’m currently learning **Data structures and algorithm**
 
